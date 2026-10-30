@@ -4,7 +4,7 @@ Donate link: https://ko-fi.com/nickgranados
 Tags: alt text, alt text generator, image alt text, alt tag, accessibility
 Requires at least: 6.4
 Tested up to: 7.1
-Stable tag: 1.3.2
+Stable tag: 1.3.3
 Requires PHP: 8.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -163,6 +163,10 @@ https://github.com/internick2017/smart-alt-generator
 Build the compiled assets in `build/` with `npm install && npm run build`.
 
 == Changelog ==
+
+= 1.3.3 =
+* Spanish and Brazilian Portuguese translations updated.
+* Translator notes for the Bulk Generator and Alt Text Audit screens now survive the JavaScript build.
 
 = 1.3.2 =
 * Documentation only: clearer plugin name, an expanded description covering the Alt Text Audit, bulk generation and language support, and more detailed FAQs. No functional changes.
